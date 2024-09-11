@@ -4,7 +4,7 @@
 
 Dada a correção da atividade de PetShop, crie um arquivo em linguagem SQL de acordo com as solicitações abaixo não esqueça de testar no XAMPP, anexe as 5 telas capturadas, anexe o link do GitHub com as linhas de código SQL e essa atividade como comentário nas linhas de código.<br>
 
-Crie um banco de dados utilizando a linguagem SQL:<br><bold>
+Crie um banco de dados utilizando a linguagem SQL:<br>
 • Crie as 4 tabelas de cliente, veterinário, consulta e animal, contendo em cada uma das tabelas o seu atributo com seu respectivo datatype. (Capture a tela do XAMPP).<br>
 • Realize a alteração do atributo da tabela cliente de nomecliente para nomecompleto (Capture a tela do XAMPP).<br>
 • Realize a alteração do datatype motivo de (200) caracteres para (500) caracteres (Captura a tela do XAMPP).<br>
@@ -13,4 +13,4 @@ Crie um banco de dados utilizando a linguagem SQL:<br><bold>
 • Por fim, realize a exclusão dos dados da tabela cliente.<br>
 • Realize a exclusão de cada uma das tabelas.<br>
 • Realize a exclusão do banco de dados (Capture a tela do XAMPP).<br><br>
-• Dupla: Mariana e Milena.
+Dupla: Mariana e Milena.
