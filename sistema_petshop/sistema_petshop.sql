@@ -32,5 +32,18 @@ ALTER TABLE cliente MODIFY COLUMN nomecompleto VARCHAR (500) NOT NULL;
 
 ALTER TABLE animal DROP COLUMN nomeanimal;
 
+ALTER TABLE animal ADD nomeanimalzinho VARCHAR(50) NOT NULL;
+
 INSERT INTO cliente (cpf, nomecompleto, telefonecliente) VALUES ('1144444411 ', 'Ana Claudia Cunha', '11999998888');
-DELETE FROM cliente WHERE `cliente`.`cpf` = '1144444411'
+
+DELETE FROM cliente WHERE cpf = '1144444411'
+
+DROP TABLE consulta;
+
+DROP TABLE veterinario;
+
+DROP TABLE animal;
+
+DROP TABLE cliente;
+
+DROP DATABASE sistemapetshop;
